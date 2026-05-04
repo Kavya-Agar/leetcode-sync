@@ -5,10 +5,10 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        mydict = {}
+        seen = {}
+        for i, num in enumerate(nums):
+            final = target - num
 
-        for i in range(len(nums)):
-            if target - nums[i] in mydict:
-                return [mydict[target - nums[i]], i]
-
-            mydict[nums[i]] = i
+            if final in seen:
+                return [seen[final], i]
+            seen[num] = i
