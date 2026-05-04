@@ -42,6 +42,7 @@ _Last updated automatically on each sync. Stats pulled from my [LeetCode profile
 <!-- updated: 2026-05-04 17:37 UTC -->
 <!-- PROGRESS_TRACKER_END -->
 ### NeetCode 150 Progress
+<!-- NEETCODE_150_START -->
 
 | Category | Status |
 |----------|--------|
@@ -57,6 +58,7 @@ _Last updated automatically on each sync. Stats pulled from my [LeetCode profile
 | Graphs | ⏳ Upcoming |
 | Dynamic Programming | ⏳ Upcoming |
 
+<!-- NEETCODE_150_END -->
 ---
 
 ## ⚙️ How the Sync Works
