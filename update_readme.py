@@ -6,7 +6,7 @@ Queries the LeetCode GraphQL API for the authenticated user's solve counts
 and rewrites the Progress Tracker table in README.md.
 
 Usage (called by GitHub Actions):
-    python update_readme.py
+    python update_readme.p
 
 Environment variables used:
     LEETCODE_SESSION   - value of the LEETCODE_SESSION cookie
@@ -87,8 +87,10 @@ def gql_request(query: str, variables: dict = None, session: str = "", csrf: str
         LEETCODE_GQL,
         data=payload,
         headers={
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
             "Content-Type": "application/json",
             "Referer": "https://leetcode.com",
+            "Origin": "https://leetcode.com",
             "Cookie": f"LEETCODE_SESSION={session}; csrftoken={csrf}",
             "x-csrftoken": csrf,
         },
