@@ -34,11 +34,12 @@ _Last updated automatically on each sync. Stats pulled from my [LeetCode profile
 
 | Difficulty | Solved | Total | Progress |
 |-----------|--------|-------|----------|
-| 🟢 Easy | 16 | 941 | ██░░░░░░░░ 1.7% |
-| 🟡 Medium | 9 | 2050 | █░░░░░░░░░ 0.4% |
+| 🟢 Easy | 17 | 941 | ░░░░░░░░░░ 1.8% |
+| 🟡 Medium | 11 | 2050 | ░░░░░░░░░░ 0.5% |
 | 🔴 Hard | 0 | 929 | ░░░░░░░░░░ 0.0% |
-| **Total** | **25** | **3920** | ░░░░░░░░░░ 0.6% |
+| **Total** | **28** | **3920** | ░░░░░░░░░░ 0.7% |
 
+<!-- updated: 2026-05-04 17:37 UTC -->
 <!-- PROGRESS_TRACKER_END -->
 ### NeetCode 150 Progress
 
