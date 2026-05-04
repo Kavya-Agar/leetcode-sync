@@ -29,16 +29,17 @@ Right now I'm working through the **[NeetCode 150](https://neetcode.io/practice)
 ---
 
 ## 📊 Progress Tracker
-
-> *Last updated automatically on each sync. Stats pulled from my [LeetCode profile](https://leetcode.com/u/c9reTYFM0W/).*
+<!-- PROGRESS_TRACKER_START -->
+_Last updated automatically on each sync. Stats pulled from my [LeetCode profile](https://leetcode.com/u/c9reTYFM0W/)._
 
 | Difficulty | Solved | Total | Progress |
-|------------|--------|-------|----------|
-| 🟢 Easy    | 16     | 941   | ██░░░░░░░░ 1.7% |
-| 🟡 Medium  | 9      | 2050  | █░░░░░░░░░ 0.4% |
-| 🔴 Hard    | 0      | 929   | ░░░░░░░░░░ 0.0% |
-| **Total**  | **25** | **3920** | **░░░░░░░░░░ 0.6%** |
+|-----------|--------|-------|----------|
+| 🟢 Easy | 16 | 941 | ██░░░░░░░░ 1.7% |
+| 🟡 Medium | 9 | 2050 | █░░░░░░░░░ 0.4% |
+| 🔴 Hard | 0 | 929 | ░░░░░░░░░░ 0.0% |
+| **Total** | **25** | **3920** | ░░░░░░░░░░ 0.6% |
 
+<!-- PROGRESS_TRACKER_END -->
 ### NeetCode 150 Progress
 
 | Category | Status |
