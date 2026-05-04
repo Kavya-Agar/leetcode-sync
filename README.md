@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-Hey! I'm **Kavya** — a Computer Science student at **Texas A&M University** (graduating May 2027) with minors in Business and Statistics. I'm passionate about building things that matter, whether that's full-stack apps, ML pipelines, or distributed systems. I've had the chance to work at JPMorgan Chase and AspenTech, and I'm always chasing the next challenge.
+Hey! I'm **Kavya** — a Computer Science student at **Texas A&M University** (graduating May 2027). I'm passionate about building things that matter, whether that's full-stack apps, ML pipelines, or distributed systems. I've had the chance to work at JPMorgan Chase and AspenTech, and I'm always chasing the next challenge.
 
 When I'm not building projects or studying, I'm grinding LeetCode — trying to sharpen the problem-solving instincts that make a real difference in technical interviews and on the job.
 
@@ -59,7 +59,7 @@ Right now I'm working through the **[NeetCode 150](https://neetcode.io/practice)
 
 ## ⚙️ How the Sync Works
 
-This repo uses the [**joshcai/leetcode-sync**](https://github.com/joshcai/leetcode-sync) GitHub Action to automatically pull my accepted LeetCode submissions and commit them here. No manual copy-pasting needed.
+This repo uses a GitHub Action to automatically pull my accepted LeetCode submissions and commit them here. No manual copy-pasting needed.
 
 ### What it does
 - Fetches **only accepted solutions** from LeetCode
@@ -87,7 +87,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Sync
-        uses: joshcai/leetcode-sync@v1.7
+        uses: leetcode-sync-action@latest
         with:
           github-token: ${{ github.token }}
           leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
