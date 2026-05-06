@@ -34,9 +34,9 @@ _Last updated automatically on each sync. Stats pulled from my [LeetCode profile
 
 | Difficulty | Solved | Total | Progress |
 |-----------|--------|-------|----------|
-| U0001f7e2 Easy | 17 | 941 | ░░░░░░░░░░ 1.8% |
-| U0001f7e1 Medium | 11 | 2050 | ░░░░░░░░░░ 0.5% |
-| U0001f534 Hard | 0 | 929 | ░░░░░░░░░░ 0.0% |
+| 🟢 Easy | 17 | 941 | ░░░░░░░░░░ 1.8% |
+| 🟡 Medium | 11 | 2050 | ░░░░░░░░░░ 0.5% |
+| 🔴 Hard | 0 | 929 | ░░░░░░░░░░ 0.0% |
 | **Total** | **28** | **3920** | ░░░░░░░░░░ 0.7% |
 
 <!-- updated: 2026-05-04 18:45 UTC -->
@@ -47,13 +47,13 @@ _Last updated automatically on each sync. Stats pulled from my [LeetCode profile
 
 | Category | Status |
 |----------|--------|
-| Arrays & Hashing | U0001f504 In Progress (5/9) |
-| Two Pointers | U0001f504 In Progress (1/5) |
-| Sliding Window | U0001f504 In Progress (2/6) |
+| Arrays & Hashing | 🔄 In Progress (5/9) |
+| Two Pointers | 🔄 In Progress (1/5) |
+| Sliding Window | 🔄 In Progress (2/6) |
 | Stack | ⏳ Upcoming (0/7) |
 | Binary Search | ⏳ Upcoming (0/7) |
-| Linked List | U0001f504 In Progress (1/10) |
-| Trees | U0001f504 In Progress (2/15) |
+| Linked List | 🔄 In Progress (1/10) |
+| Trees | 🔄 In Progress (2/15) |
 | Heap / Priority Queue | ⏳ Upcoming (0/7) |
 | Backtracking | ⏳ Upcoming (0/9) |
 | Graphs | ⏳ Upcoming (0/13) |
@@ -63,7 +63,7 @@ _Last updated automatically on each sync. Stats pulled from my [LeetCode profile
 | Greedy | ⏳ Upcoming (0/8) |
 | Intervals | ⏳ Upcoming (0/6) |
 | Math & Geometry | ⏳ Upcoming (0/8) |
-| Bit Manipulation | U0001f504 In Progress (1/7) |
+| Bit Manipulation | 🔄 In Progress (1/7) |
 | Tries | ⏳ Upcoming (0/3) |
 
 <!-- neetcode-updated: 2026-05-04 18:45 UTC -->
