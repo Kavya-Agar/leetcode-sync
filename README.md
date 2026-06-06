@@ -34,12 +34,12 @@ _Last updated automatically on each sync. Stats pulled from my [LeetCode profile
 
 | Difficulty | Solved | Total | Progress |
 |-----------|--------|-------|----------|
-| U0001f7e2 Easy | 19 | 946 | ░░░░░░░░░░ 2.0% |
-| U0001f7e1 Medium | 13 | 2061 | ░░░░░░░░░░ 0.6% |
-| U0001f534 Hard | 0 | 937 | ░░░░░░░░░░ 0.0% |
-| **Total** | **32** | **3944** | ░░░░░░░░░░ 0.8% |
+| U0001f7e2 Easy | 19 | 947 | ░░░░░░░░░░ 2.0% |
+| U0001f7e1 Medium | 13 | 2063 | ░░░░░░░░░░ 0.6% |
+| U0001f534 Hard | 0 | 939 | ░░░░░░░░░░ 0.0% |
+| **Total** | **32** | **3949** | ░░░░░░░░░░ 0.8% |
 
-<!-- updated: 2026-05-30 09:58 UTC -->
+<!-- updated: 2026-06-06 10:01 UTC -->
 <!-- PROGRESS_TRACKER_END -->
 ### NeetCode 150 Progress
 <!-- NEETCODE_150_START -->
@@ -66,7 +66,7 @@ _Last updated automatically on each sync. Stats pulled from my [LeetCode profile
 | Bit Manipulation | U0001f504 In Progress (1/7) |
 | Tries | ⏳ Upcoming (0/3) |
 
-<!-- neetcode-updated: 2026-05-30 09:58 UTC -->
+<!-- neetcode-updated: 2026-06-06 10:01 UTC -->
 <!-- NEETCODE_150_END -->
 ---
 
