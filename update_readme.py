@@ -370,7 +370,7 @@ def build_neetcode_block(solved_slugs: set) -> str:
         if cat_solved == cat_total:
             status = f"✅ Complete ({cat_solved}/{cat_total})"
         elif cat_solved > 0:
-            status = f"U0001f504 In Progress ({cat_solved}/{cat_total})"
+            status = f"🔄 In Progress ({cat_solved}/{cat_total})"
         else:
             status = f"⏳ Upcoming (0/{cat_total})"
 
@@ -418,9 +418,9 @@ def build_tracker_block(solved: dict, total: dict) -> str:
         "",
         "| Difficulty | Solved | Total | Progress |",
         "|-----------|--------|-------|----------|",
-        f"| U0001f7e2 Easy | {easy_s} | {easy_t} | {make_bar(easy_s, easy_t)} |",
-        f"| U0001f7e1 Medium | {med_s} | {med_t} | {make_bar(med_s, med_t)} |",
-        f"| U0001f534 Hard | {hard_s} | {hard_t} | {make_bar(hard_s, hard_t)} |",
+        f"| 🟢 Easy | {easy_s} | {easy_t} | {make_bar(easy_s, easy_t)} |",
+        f"| 🟡 Medium | {med_s} | {med_t} | {make_bar(med_s, med_t)} |",
+        f"| 🔴 Hard | {hard_s} | {hard_t} | {make_bar(hard_s, hard_t)} |",
         f"| **Total** | **{all_s}** | **{all_t}** | {make_bar(all_s, all_t)} |",
         "",
         f"<!-- updated: {now} -->",
@@ -441,7 +441,7 @@ def _replace_between_markers(content: str, start: str, end: str, new_block: str)
 
     # Markers missing - try to insert after the matching heading
     if start == START_MARKER:
-        heading_pattern = re.compile(r"(##\s*U0001f4ca\s*Progress Tracker\s*\n)")
+        heading_pattern = re.compile(r"(##\s*📊\s*Progress Tracker\s*\n)")
     else:
         heading_pattern = re.compile(r"(##\s*NeetCode 150 Progress\s*\n)")
 
