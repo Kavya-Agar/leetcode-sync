@@ -34,23 +34,23 @@ _Last updated automatically on each sync. Stats pulled from my [LeetCode profile
 
 | Difficulty | Solved | Total | Progress |
 |-----------|--------|-------|----------|
-| U0001f7e2 Easy | 21 | 954 | ░░░░░░░░░░ 2.2% |
-| U0001f7e1 Medium | 16 | 2084 | ░░░░░░░░░░ 0.8% |
-| U0001f534 Hard | 0 | 953 | ░░░░░░░░░░ 0.0% |
-| **Total** | **37** | **3991** | ░░░░░░░░░░ 0.9% |
+| U0001f7e2 Easy | 22 | 958 | ░░░░░░░░░░ 2.3% |
+| U0001f7e1 Medium | 19 | 2095 | ░░░░░░░░░░ 0.9% |
+| U0001f534 Hard | 1 | 960 | ░░░░░░░░░░ 0.1% |
+| **Total** | **42** | **4013** | ░░░░░░░░░░ 1.0% |
 
-<!-- updated: 2026-07-18 09:21 UTC -->
+<!-- updated: 2026-08-03 15:50 UTC -->
 <!-- PROGRESS_TRACKER_END -->
 ### NeetCode 150 Progress
 <!-- NEETCODE_150_START -->
-**Overall: 14 / 149 solved (9.4%)** &nbsp; ██░░░░░░░░░░░░░░░░░░ 9.4%
+**Overall: 19 / 149 solved (12.8%)** &nbsp; ███░░░░░░░░░░░░░░░░░ 12.8%
 
 | Category | Status |
 |----------|--------|
 | Arrays & Hashing | U0001f504 In Progress (6/9) |
-| Two Pointers | U0001f504 In Progress (2/5) |
+| Two Pointers | U0001f504 In Progress (3/5) |
 | Sliding Window | U0001f504 In Progress (2/6) |
-| Stack | ⏳ Upcoming (0/7) |
+| Stack | U0001f504 In Progress (4/7) |
 | Binary Search | ⏳ Upcoming (0/7) |
 | Linked List | U0001f504 In Progress (1/10) |
 | Trees | U0001f504 In Progress (2/15) |
@@ -66,7 +66,7 @@ _Last updated automatically on each sync. Stats pulled from my [LeetCode profile
 | Bit Manipulation | U0001f504 In Progress (1/7) |
 | Tries | ⏳ Upcoming (0/3) |
 
-<!-- neetcode-updated: 2026-07-18 09:21 UTC -->
+<!-- neetcode-updated: 2026-08-03 15:50 UTC -->
 <!-- NEETCODE_150_END -->
 ---
 
