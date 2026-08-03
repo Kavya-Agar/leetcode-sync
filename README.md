@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-Hey! I'm **Kavya** — a Computer Science student at **Texas A&M University** (graduating May 2027). I'm passionate about building things that matter, whether that's full-stack apps, ML pipelines, or distributed systems. I've had the chance to work at JPMorgan Chase and AspenTech, and I'm always chasing the next challenge.
+Hey! I'm **Kavya** — a Computer Science student at **Texas A&M University** (graduating May 2028). I'm passionate about building things that matter, whether that's full-stack apps, ML pipelines, or distributed systems. I've had the chance to work at JPMorgan Chase and AspenTech, and I'm always chasing the next challenge.
 
 When I'm not building projects or studying, I'm grinding LeetCode — trying to sharpen the problem-solving instincts that make a real difference in technical interviews and on the job.
 
