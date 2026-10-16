@@ -35,15 +35,15 @@ _Last updated automatically on each sync. Stats pulled from my [LeetCode profile
 | Difficulty | Solved | Total | Progress |
 |-----------|--------|-------|----------|
 | 🟢 Easy | 24 | 971 | ░░░░░░░░░░ 2.5% |
-| 🟡 Medium | 21 | 2128 | ░░░░░░░░░░ 1.0% |
+| 🟡 Medium | 22 | 2128 | ░░░░░░░░░░ 1.0% |
 | 🔴 Hard | 1 | 983 | ░░░░░░░░░░ 0.1% |
-| **Total** | **46** | **4082** | ░░░░░░░░░░ 1.1% |
+| **Total** | **47** | **4082** | ░░░░░░░░░░ 1.2% |
 
-<!-- updated: 2026-10-16 20:17 UTC -->
+<!-- updated: 2026-10-16 21:36 UTC -->
 <!-- PROGRESS_TRACKER_END -->
 ### NeetCode 150 Progress
 <!-- NEETCODE_150_START -->
-**Overall: 20 / 149 solved (13.4%)** &nbsp; ███░░░░░░░░░░░░░░░░░ 13.4%
+**Overall: 21 / 149 solved (14.1%)** &nbsp; ███░░░░░░░░░░░░░░░░░ 14.1%
 
 | Category | Status |
 |----------|--------|
@@ -53,7 +53,7 @@ _Last updated automatically on each sync. Stats pulled from my [LeetCode profile
 | Stack | 🔄 In Progress (5/7) |
 | Binary Search | ⏳ Upcoming (0/7) |
 | Linked List | 🔄 In Progress (1/10) |
-| Trees | 🔄 In Progress (2/15) |
+| Trees | 🔄 In Progress (3/15) |
 | Heap / Priority Queue | ⏳ Upcoming (0/7) |
 | Backtracking | ⏳ Upcoming (0/9) |
 | Graphs | ⏳ Upcoming (0/13) |
@@ -66,7 +66,7 @@ _Last updated automatically on each sync. Stats pulled from my [LeetCode profile
 | Bit Manipulation | 🔄 In Progress (1/7) |
 | Tries | ⏳ Upcoming (0/3) |
 
-<!-- neetcode-updated: 2026-10-16 20:17 UTC -->
+<!-- neetcode-updated: 2026-10-16 21:36 UTC -->
 <!-- NEETCODE_150_END -->
 ---
 
