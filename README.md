@@ -34,23 +34,23 @@ _Last updated automatically on each sync. Stats pulled from my [LeetCode profile
 
 | Difficulty | Solved | Total | Progress |
 |-----------|--------|-------|----------|
-| 🟢 Easy | 22 | 958 | ░░░░░░░░░░ 2.3% |
-| 🟡 Medium | 20 | 2095 | ░░░░░░░░░░ 1.0% |
-| 🔴 Hard | 1 | 960 | ░░░░░░░░░░ 0.1% |
-| **Total** | **43** | **4013** | ░░░░░░░░░░ 1.1% |
+| 🟢 Easy | 24 | 971 | ░░░░░░░░░░ 2.5% |
+| 🟡 Medium | 21 | 2128 | ░░░░░░░░░░ 1.0% |
+| 🔴 Hard | 1 | 983 | ░░░░░░░░░░ 0.1% |
+| **Total** | **46** | **4082** | ░░░░░░░░░░ 1.1% |
 
-<!-- updated: 2026-08-08 08:36 UTC -->
+<!-- updated: 2026-10-16 20:17 UTC -->
 <!-- PROGRESS_TRACKER_END -->
 ### NeetCode 150 Progress
 <!-- NEETCODE_150_START -->
-**Overall: 19 / 149 solved (12.8%)** &nbsp; ███░░░░░░░░░░░░░░░░░ 12.8%
+**Overall: 20 / 149 solved (13.4%)** &nbsp; ███░░░░░░░░░░░░░░░░░ 13.4%
 
 | Category | Status |
 |----------|--------|
 | Arrays & Hashing | 🔄 In Progress (6/9) |
 | Two Pointers | 🔄 In Progress (3/5) |
 | Sliding Window | 🔄 In Progress (2/6) |
-| Stack | 🔄 In Progress (4/7) |
+| Stack | 🔄 In Progress (5/7) |
 | Binary Search | ⏳ Upcoming (0/7) |
 | Linked List | 🔄 In Progress (1/10) |
 | Trees | 🔄 In Progress (2/15) |
@@ -66,7 +66,7 @@ _Last updated automatically on each sync. Stats pulled from my [LeetCode profile
 | Bit Manipulation | 🔄 In Progress (1/7) |
 | Tries | ⏳ Upcoming (0/3) |
 
-<!-- neetcode-updated: 2026-08-08 08:36 UTC -->
+<!-- neetcode-updated: 2026-10-16 20:17 UTC -->
 <!-- NEETCODE_150_END -->
 ---
 
