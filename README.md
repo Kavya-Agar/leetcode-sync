@@ -39,16 +39,16 @@ _Last updated automatically on each sync. Stats pulled from my [LeetCode profile
 | 🔴 Hard | 1 | 983 | ░░░░░░░░░░ 0.1% |
 | **Total** | **47** | **4082** | ░░░░░░░░░░ 1.2% |
 
-<!-- updated: 2026-10-16 21:36 UTC -->
+<!-- updated: 2026-10-17 11:47 UTC -->
 <!-- PROGRESS_TRACKER_END -->
 ### NeetCode 150 Progress
 <!-- NEETCODE_150_START -->
-**Overall: 21 / 149 solved (14.1%)** &nbsp; ███░░░░░░░░░░░░░░░░░ 14.1%
+**Overall: 22 / 149 solved (14.8%)** &nbsp; ███░░░░░░░░░░░░░░░░░ 14.8%
 
 | Category | Status |
 |----------|--------|
 | Arrays & Hashing | 🔄 In Progress (6/9) |
-| Two Pointers | 🔄 In Progress (3/5) |
+| Two Pointers | 🔄 In Progress (4/5) |
 | Sliding Window | 🔄 In Progress (2/6) |
 | Stack | 🔄 In Progress (5/7) |
 | Binary Search | ⏳ Upcoming (0/7) |
@@ -66,7 +66,7 @@ _Last updated automatically on each sync. Stats pulled from my [LeetCode profile
 | Bit Manipulation | 🔄 In Progress (1/7) |
 | Tries | ⏳ Upcoming (0/3) |
 
-<!-- neetcode-updated: 2026-10-16 21:36 UTC -->
+<!-- neetcode-updated: 2026-10-17 11:47 UTC -->
 <!-- NEETCODE_150_END -->
 ---
 
