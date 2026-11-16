@@ -34,16 +34,16 @@ _Last updated automatically on each sync. Stats pulled from my [LeetCode profile
 
 | Difficulty | Solved | Total | Progress |
 |-----------|--------|-------|----------|
-| 🟢 Easy | 29 | 972 | ░░░░░░░░░░ 3.0% |
-| 🟡 Medium | 28 | 2131 | ░░░░░░░░░░ 1.3% |
-| 🔴 Hard | 2 | 984 | ░░░░░░░░░░ 0.2% |
-| **Total** | **59** | **4087** | ░░░░░░░░░░ 1.4% |
+| 🟢 Easy | 29 | 976 | ░░░░░░░░░░ 3.0% |
+| 🟡 Medium | 28 | 2148 | ░░░░░░░░░░ 1.3% |
+| 🔴 Hard | 2 | 990 | ░░░░░░░░░░ 0.2% |
+| **Total** | **59** | **4114** | ░░░░░░░░░░ 1.4% |
 
-<!-- updated: 2026-10-24 12:16 UTC -->
+<!-- updated: 2026-11-16 17:08 UTC -->
 <!-- PROGRESS_TRACKER_END -->
 ### NeetCode 150 Progress
 <!-- NEETCODE_150_START -->
-**Overall: 22 / 149 solved (14.8%)** &nbsp; ███░░░░░░░░░░░░░░░░░ 14.8%
+**Overall: 32 / 149 solved (21.5%)** &nbsp; ████░░░░░░░░░░░░░░░░ 21.5%
 
 | Category | Status |
 |----------|--------|
@@ -51,22 +51,22 @@ _Last updated automatically on each sync. Stats pulled from my [LeetCode profile
 | Two Pointers | 🔄 In Progress (4/5) |
 | Sliding Window | 🔄 In Progress (2/6) |
 | Stack | 🔄 In Progress (5/7) |
-| Binary Search | ⏳ Upcoming (0/7) |
-| Linked List | 🔄 In Progress (1/10) |
+| Binary Search | 🔄 In Progress (2/7) |
+| Linked List | 🔄 In Progress (5/10) |
 | Trees | 🔄 In Progress (3/15) |
 | Heap / Priority Queue | ⏳ Upcoming (0/7) |
-| Backtracking | ⏳ Upcoming (0/9) |
+| Backtracking | 🔄 In Progress (1/9) |
 | Graphs | ⏳ Upcoming (0/13) |
 | Advanced Graphs | ⏳ Upcoming (0/6) |
-| 1-D Dynamic Programming | ⏳ Upcoming (0/12) |
+| 1-D Dynamic Programming | 🔄 In Progress (1/12) |
 | 2-D Dynamic Programming | ⏳ Upcoming (0/11) |
-| Greedy | ⏳ Upcoming (0/8) |
+| Greedy | 🔄 In Progress (1/8) |
 | Intervals | ⏳ Upcoming (0/6) |
-| Math & Geometry | ⏳ Upcoming (0/8) |
+| Math & Geometry | 🔄 In Progress (1/8) |
 | Bit Manipulation | 🔄 In Progress (1/7) |
 | Tries | ⏳ Upcoming (0/3) |
 
-<!-- neetcode-updated: 2026-10-24 12:16 UTC -->
+<!-- neetcode-updated: 2026-11-16 17:08 UTC -->
 <!-- NEETCODE_150_END -->
 ---
 
